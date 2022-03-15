@@ -1,5 +1,5 @@
 # API_YaMDb
-## REST API для сервиса YaMDb — базы отзывов
+## REST API для сервиса YaMDb — базы отзывов о фильмах, книгах и музыке
 ### Авторы:
 - Ilya Rogozin https://github.com/ilyarogozin
 - Mia Evans https://github.com/Evansmia
