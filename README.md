@@ -4,6 +4,13 @@
 - Ilya Rogozin https://github.com/ilyarogozin
 - Mia Evans https://github.com/Evansmia
 - Vlad Pronko https://github.com/VladPronko
+### Распределение задач в команде:
+- Ilya Rogozin
+>Всё, что касается управления пользователями (Auth и Users): система регистрации и аутентификации, права доступа, работа с токеном, система подтверждения через e-mail.
+- Mia Evans
+>Категории (Categories), жанры (Genres) и произведения (Titles): модели, представления и эндпойнты для них.
+- Vlad Pronko
+>Отзывы (Review) и комментарии (Comments): описание моделей, представлений, настройка эндпойнтов, определение прав доступа для запросов, рейтинги произведений.
 ### Технологии:
 - Python
 - Django
