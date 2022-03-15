@@ -1,5 +1,5 @@
 # API_YaMDb
-## api_yamdb - это проект учебного API для сервиса отзывов к произведениям
+## REST API для сервиса YaMDb — базы отзывов
 ### Авторы:
 - Ilya Rogozin https://github.com/ilyarogozin
 - Mia Evans https://github.com/Evansmia
