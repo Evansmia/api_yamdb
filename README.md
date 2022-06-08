@@ -18,14 +18,15 @@
 
 # Как запустить проект:
 - Клонировать репозиторий и перейти в него:
->git clone git@github.com:ilyarogozin/api_yamdb.git
+>git clone https://github.com/Evansmia/api_yamdb.git
 
 >cd api_yamdb
 
 - Cоздать и активировать виртуальное окружение:
 >python3 -m venv env
 
->source env/bin/activate
+>source venv/Scripts/activate  #для Windows
+>source venv/bin/activate      #для Linux и macOS
 
 - Установить зависимости из файла requirements.txt:
 >python3 -m pip install --upgrade pip
